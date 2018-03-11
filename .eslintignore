@@ -1,0 +1,8 @@
+test/unit/coverage/**
+test/unit/*.js
+test/e2e/*.js
+src/index.ejs
+src/renderer/assets/font/
+src/renderer/utils/qrcode/qrcode.js
+src/renderer/pages/terminal/demo
+src/renderer/pages/terminal/content/appointment/paybook
